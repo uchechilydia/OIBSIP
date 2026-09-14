@@ -32,7 +32,6 @@ Segment customers by purchasing behaviour using RFM analysis (Recency, Frequency
 | At-Risk Customers | 3,054 | 70.4% | 43.7 | 3.7 | 1,353.63 |
 | Low-Value/Inactive Customers | 1,067 | 24.6% | 248.1 | 1.6 | 478.85 |
 
-*(Monetary values are in the dataset's original currency, GBP.)*
 
 ## Marketing recommendations by segment
 - **VIP customers** — retention-focused: loyalty perks, exclusive offers, early access, personalized recommendations rather than discounting.
